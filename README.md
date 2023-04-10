@@ -24,13 +24,13 @@ Here are some ideas to get you started:
   ✨ I’m currently learning 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
   
-  <br><br>
+  <br>
   
   ## ✉️ <b>Contact Me 
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat&logo=Naver&logoColor=white" />  
 
-  <br><br>
+  <br><br><br>
 
   ## 💻 Skills
   <p>📚 Language</p>
@@ -42,23 +42,23 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-033963?style=flat&logo=C%23&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-7239B3?style=flat&logo=Java&logoColor=white" />
-  <br><br>
+  <br><br><br>
   
   <p>📚 Frame work</p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
-  <br><br>
+  <br><br><br>
   
   <p>📚 Data Base</p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
-  <br><br>
+  <br><br><br>
   
   <p>📚 DevOps</p>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
-  <br><br>
+  <br><br><br>
   
   <p>📚 Collaboration</p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
@@ -66,10 +66,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=Jira Software&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
-  <br><br>
+  <br><br><br>
 
   ## ✏️ Solved.ac & GitHub Stats
-  
 
   [![Solved.ac ghdtjgml708](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdtjgml708)](https://solved.ac/ghdtjgml708)
 
