@@ -30,12 +30,12 @@ Here are some ideas to get you started:
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXxoSio%2Fhit-counter&count_bg=%23408CCA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=XxoSio&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  <a href="mailto:admin@ghdtjgml7088.co.kr">
-		<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-   <a href="mailto:admin@ghdtjgml708.co.kr">
-		<img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat&logo=Naver&logoColor=white" />
-	</a> 
+  <a href="mailto:ghdtjgml7088@gmail.com">
+	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="mailto:ghdtjgml708@naver.com">
+	<img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat&logo=Naver&logoColor=white" />
+  </a> 
 
   <br><br>
 
