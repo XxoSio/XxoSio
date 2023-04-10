@@ -27,10 +27,13 @@ Here are some ideas to get you started:
   <br>
   
   ## ✉️ <b>Contact Me 
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXxoSio%2Fhit-counter&count_bg=%23408CCA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=XxoSio&edge_flat=false)](https://hits.seeyoufarm.com)
+  
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat&logo=Naver&logoColor=white" />  
 
-  <br><br><br>
+  <br><br>
 
   ## 💻 Skills
   <p>📚 Language</p>
@@ -42,23 +45,29 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-033963?style=flat&logo=C%23&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-7239B3?style=flat&logo=Java&logoColor=white" />
-  <br><br><br>
+  <br><br>
   
   <p>📚 Frame work</p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
-  <br><br><br>
+  <br><br>
   
   <p>📚 Data Base</p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
-  <br><br><br>
+  <br><br>
   
   <p>📚 DevOps</p>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
-  <br><br><br>
+  <br><br>
+  
+  <p>📚 Engine</p>
+  <img src="https://img.shields.io/badge/Unity-232F3E?style=flat&logo=Unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=Unreal Engine&&logoColor=white" />
+  <img src="https://img.shields.io/badge/DirectX-191A1B?style=flat&logo=DirectX&logoColor=white" />
+  <br><br>
   
   <p>📚 Collaboration</p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
@@ -68,7 +77,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
   <br><br><br>
 
-  ## ✏️ Solved.ac & GitHub Stats
+  ## ✏️ Solved & GitHub
 
   [![Solved.ac ghdtjgml708](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdtjgml708)](https://solved.ac/ghdtjgml708)
 
