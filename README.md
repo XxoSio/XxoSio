@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   ✨ I’m currently learning 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
   
-  <br>
+  <br><br>
   
   ## ✉️ <b>Contact Me 
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
