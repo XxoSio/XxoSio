@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=XxoSio&desc="I%20am%20developer%20who%20is%20always%20running%20tirelessly!"&fontAlign=50&fontAlignY=35&fontSize=50&fontColor=ffffff)
 
-  ## 👩‍💻 About XxoSio
+  ## 👩‍💻 About Me
   ✨ I'm Modem Protocol Engineer
   <br><br>
   ✨ I’m interested in full-stack development and AI development
