@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=XxoSio&desc="I%20am%20developer%20who%20is%20always%20running%20tirelessly!"&fontAlign=50&fontAlignY=35&fontSize=50&fontColor=ffffff)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=Diana&desc="I%20am%20developer%20who%20is%20always%20running%20tirelessly!"&fontAlign=50&fontAlignY=35&fontSize=50&fontColor=ffffff)
 
   ## 👩‍💻 About Me
   ✨ I'm Modem Protocol Engineer
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
   [![Solved.ac ghdtjgml708](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdtjgml708)](https://solved.ac/ghdtjgml708)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=XxoSio&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diana&show_icons=true&count_private=true" />
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxoSio&layout=compact&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diana&layout=compact&langs_count=10" />
 </div>
