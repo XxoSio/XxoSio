@@ -84,8 +84,8 @@ Here are some ideas to get you started:
   ## ✏️ Solved & GitHub
 
   [![Solved.ac ghdtjgml708](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdtjgml708)](https://solved.ac/ghdtjgml708)
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Diana&show_icons=true&count_private=true" />
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diana&layout=compact&langs_count=10" />
+	
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=XxoSio&show_icons=true)
+		
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxoSio&layout=compact&langs_count=10")
 </div>
